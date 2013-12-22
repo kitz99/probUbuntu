@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1386361321 source:/home/bogdan/Desktop/SubsirCrescatorMaximal/main.cpp
+	<fstream>
+	<iostream>
+
